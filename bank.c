@@ -56,9 +56,9 @@ int main()
         printf("\nEnter mail id:");
         scanf("%s ",b[i].mail);
         printf("\nEnter your Mobile number:");
-        scanf("  %lld", &b[i].mobile);
+        scanf(" %lld", &b[i].mobile);
         printf("\nEnter Username:");
-        scanf(" %s ",b[i].username);
+        scanf(" %s",b[i].username);
         printf("\nEnter password:");
         scanf(" %s ",b[i].password);
         printf("Initial Balance:");
